@@ -1,0 +1,29 @@
+{
+  "version": "2.6.2",
+  "release_version": "1.0",
+  "released_at": "2026-11-24",
+  "summary": {
+    "title": "A Small Home WLAN",
+    "owner": "Osei Shadrack Kwame",
+    "description": ". A Small Home WLAN with 1 Router, 2 laptops used by the parents, 2 smartphones used by their 2 sons and a printer. All traffic passes through one combined router/access point (AP) supplied by the ISP which is MTN.\n• One Wi-Fi network, WPA2-Personal, PSK\n• 2 laptops, 2 smartphones, 1 printer\n• Router admin page still on default credentials\n• Guests use the same Wi-Fi as the children; no VLANs, no guest network\n",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "Small Home WLAN Data Flow Diagram",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "Shows how data flows within the home network "
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
